@@ -10,12 +10,12 @@
         android:id="@+id/edtAnyName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Any Name"/>
+        android:hint="Enter Text" />
 
     <Button
         android:id="@+id/btnOkay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Okay"/>
+        android:text="OK" />
 
 </LinearLayout>
